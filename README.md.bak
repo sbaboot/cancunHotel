@@ -44,8 +44,11 @@ port: *3306*
 
 ### Postman 
 `GET` **/api/reservation - Get all reservations
+
 `GET` **/api/reservation/1 - Get a detail reservation
+
 `POST` **/api/reservation - Save a reservation (add or update if id != 0):
+
         * Request body:
         ```json
 		{    
@@ -57,7 +60,9 @@ port: *3306*
 			"toDate": "2022-02-07T19:50:40"
 		}
         ```
+		
 `DELETE` **/api/reservation/1 - Delete detail reservation
+
 `GET` **/api/room/availability - Display room information and available dates to book
 
 ### Improvement

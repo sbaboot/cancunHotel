@@ -28,7 +28,7 @@ can’t be reserved more than 30 days in advance.
 ### Project information
 APi developed with multiple projects in order to separate responsabilites of each component.
 
-I used mariadb database hosted on Amazon Web Services (AWS) thanks to RDS Services. Acces seems to be allowed to everyone.If you can't access the API, don't hesitate to contact me {new issue](https://github.com/sbaboot/cancunHotel/issues/new)
+I used mariadb database hosted on Amazon Web Services (AWS) thanks to RDS Services. Acces seems to be allowed to everyone.If you can't access the API, don't hesitate to contact me [new issue](https://github.com/sbaboot/cancunHotel/issues/new)
 I we want to go deeper, you can find the [diagram class](https://github.com/sbaboot/cancunHotel/blob/master/Cancun%20diagram%20class.pdf)
 
 ### Prerequisites
@@ -36,10 +36,10 @@ To be able to run the project in your machine, you need to consider the followin
 
 You need to launch the web app api and use postman to test endpoints. Swagger can be used to.
 if you want to access mariadb database you can use HeidiSQL
-host: *cancunhotel.czfxewceanxd.eu-west-3.rds.amazonaws.com*
-user: *admin*
-password: *Toulouse31+*
-port: *3306*
+*host: *cancunhotel.czfxewceanxd.eu-west-3.rds.amazonaws.com*
+*user: *admin*
+*password: *Toulouse31+*
+*port: *3306*
 
 
 ### Postman 
