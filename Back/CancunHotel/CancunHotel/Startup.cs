@@ -15,6 +15,7 @@ using System.Threading.Tasks;
 using CancunHotel.Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
 using System.IO;
+using Foundation.Swagger;
 
 namespace CancunHotel
 {
@@ -35,12 +36,6 @@ namespace CancunHotel
             services
                     .AddHotelCancunApiInfrastructure()
                     .AddCancunHotelApiDomain();
-            //services.AddCors(options =>
-            //{
-            //    options.AddPolicy("CorsPolicy",
-            //        builder => builder.AllowAnyHeader().AllowAnyMethod().AllowCredentials().AllowAnyOrigin());
-            //});
-
             services.AddCors(options =>
             {
                 options.AddPolicy(MyAllowSpecificOrigins,
@@ -53,6 +48,7 @@ namespace CancunHotel
                 });
             });
 
+            services.InitializeSwagger();
 
             services.AddDbContext<CancunHotelDbContext>(options =>
                 options.UseMySql("Host='cancunhotel.czfxewceanxd.eu-west-3.rds.amazonaws.com';Port=3306;Database='cancunhotel';Username='admin';Password='Toulouse31+'", 
@@ -75,41 +71,24 @@ namespace CancunHotel
 
 
             app.UseRouting();
-            UseAngular(app);
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
-        }
 
-        public void UseAngular(IApplicationBuilder app)
-        {
-            DefaultFilesOptions dfoptions = new DefaultFilesOptions();
-            dfoptions.DefaultFileNames.Clear();
-            dfoptions.DefaultFileNames.Add("/index.html");
-            app.UseDefaultFiles(dfoptions);
-
-            StaticFileOptions sfoptions = new StaticFileOptions
+#if DEBUG
+            app.UseSwagger(c =>
             {
-                OnPrepareResponse = (context) =>
-                {
-                    var path = context.Context.Request.Path;
-                if (!string.IsNullOrEmpty(Path.GetExtension(path.Value)))
-                {
-                    // Disable caching of all static files.
-                    context.Context.Response.Headers["Cache-Control"] = "no-cache, no-store";
-                    context.Context.Response.Headers["Pragma"] = "no-cache";
-                    context.Context.Response.Headers["Expires"] = "-1";
-                    context.Context.Response.Headers["Access-Control-Allow-Origin"] = "*";
-                    context.Context.Response.Headers["Access-Control-Allow-Credentials"] = "true";
-                    context.Context.Response.Headers["Access-Control-Allow-Headers"] = "*";
-                    context.Context.Response.Headers["Access-Control-Allow-Methods"] = "POST,GET,PUT,DELETE,OPTIONS";
-                    }
-                }
-            };
-            app.UseStaticFiles(sfoptions);
+                c.RouteTemplate = "api/swagger/{documentName}/swagger.json";
+            });
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/api/swagger/v1/swagger.json", "Cancun hotel Api");
+                c.RoutePrefix = "api/swagger";
+            });
+#endif
         }
     }
 }
