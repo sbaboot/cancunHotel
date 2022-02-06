@@ -47,7 +47,7 @@ if you want to access mariadb database you can use HeidiSQL
 
 `GET` **http://localhost:5000/api/reservation/1 - Get a detail reservation
 
-`POST` **http://localhost:5000/api/reservation - Save a reservation (add or update if id != 0):
+`POST` **http://localhost:5000/api/reservation - Save a reservation (add or update if id != 0).
 
         * Request body:
         ```json
