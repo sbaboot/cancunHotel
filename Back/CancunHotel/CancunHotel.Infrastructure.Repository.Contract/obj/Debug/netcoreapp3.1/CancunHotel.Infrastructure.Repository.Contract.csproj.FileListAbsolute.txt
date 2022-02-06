@@ -1,0 +1,17 @@
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.deps.json
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Model.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\Foundation.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Model.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\Foundation.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.csproj.AssemblyReference.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.AssemblyInfoInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.AssemblyInfo.cs
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.csproj.CoreCompileInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.csproj.CopyComplete
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\obj\Debug\netcoreapp3.1\CancunHotel.Infrastructure.Repository.Contract.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Enum.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Infrastructure.Repository.Contract\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Enum.pdb

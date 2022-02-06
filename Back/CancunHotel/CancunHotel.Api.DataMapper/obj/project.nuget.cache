@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrpG3K2OcqkGNssOqpVHesvHDf879nFuktDLzZ4xUSyNCa+ccgCl8BWkE4PJvC8c5swOa+Tq3UKQ3NFkHGLFaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\CancunHotel.Api.DataMapper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebastien.flamant\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sebastien.flamant\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\sebastien.flamant\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

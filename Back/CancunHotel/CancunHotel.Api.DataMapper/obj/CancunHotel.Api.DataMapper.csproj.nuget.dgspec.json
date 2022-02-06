@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\CancunHotel.Api.DataMapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\CancunHotel.Api.DataMapper.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\CancunHotel.Api.DataMapper.Contract.csproj",
+        "projectName": "CancunHotel.Api.DataMapper.Contract",
+        "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\CancunHotel.Api.DataMapper.Contract.csproj",
+        "packagesPath": "C:\\Users\\sebastien.flamant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebastien.flamant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\CancunHotel.Api.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\CancunHotel.Api.ViewModel.csproj"
+              },
+              "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj": {
+                "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\CancunHotel.Api.DataMapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\CancunHotel.Api.DataMapper.csproj",
+        "projectName": "CancunHotel.Api.DataMapper",
+        "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\CancunHotel.Api.DataMapper.csproj",
+        "packagesPath": "C:\\Users\\sebastien.flamant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebastien.flamant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\CancunHotel.Api.DataMapper.Contract.csproj": {
+                "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.DataMapper.Contract\\CancunHotel.Api.DataMapper.Contract.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\CancunHotel.Api.ViewModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\CancunHotel.Api.ViewModel.csproj",
+        "projectName": "CancunHotel.Api.ViewModel",
+        "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\CancunHotel.Api.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\sebastien.flamant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Api.ViewModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebastien.flamant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj": {
+                "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\CancunHotel.Domain.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\CancunHotel.Domain.Enum.csproj",
+        "projectName": "CancunHotel.Domain.Enum",
+        "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\CancunHotel.Domain.Enum.csproj",
+        "packagesPath": "C:\\Users\\sebastien.flamant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebastien.flamant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj",
+        "projectName": "CancunHotel.Domain.Model",
+        "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\CancunHotel.Domain.Model.csproj",
+        "packagesPath": "C:\\Users\\sebastien.flamant\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sebastien.flamant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\CancunHotel.Domain.Enum.csproj": {
+                "projectPath": "C:\\Users\\sebastien.flamant\\Documents\\Perso\\CancunHotel\\Back\\CancunHotel\\CancunHotel.Domain.Enum\\CancunHotel.Domain.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

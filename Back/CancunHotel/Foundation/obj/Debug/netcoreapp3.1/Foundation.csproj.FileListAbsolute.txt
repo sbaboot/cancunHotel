@@ -1,0 +1,13 @@
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\bin\Debug\netcoreapp3.1\Foundation.deps.json
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\bin\Debug\netcoreapp3.1\Foundation.runtimeconfig.json
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\bin\Debug\netcoreapp3.1\Foundation.runtimeconfig.dev.json
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\bin\Debug\netcoreapp3.1\Foundation.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\bin\Debug\netcoreapp3.1\Foundation.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.AssemblyInfoInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.AssemblyInfo.cs
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.csproj.CoreCompileInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.genruntimeconfig.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\Foundation\obj\Debug\netcoreapp3.1\Foundation.csproj.AssemblyReference.cache

@@ -1,0 +1,97 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Api.DataMapper", "CancunHotel.Api.DataMapper\CancunHotel.Api.DataMapper.csproj", "{41A20CA5-2D6B-4684-AB3F-D52BBAF9FD27}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Api.DataMapper.Contract", "CancunHotel.Api.DataMapper.Contract\CancunHotel.Api.DataMapper.Contract.csproj", "{136026F0-0D1B-4DBE-BA3B-7BAA274CDBE7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Api.ViewModel", "CancunHotel.Api.ViewModel\CancunHotel.Api.ViewModel.csproj", "{BC7665E2-46B5-418B-8C12-C592FC3389B6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Domain.DI", "CancunHotel.Domain.DI\CancunHotel.Domain.DI.csproj", "{9DCBF0B5-2157-4F5E-BD96-F5EDAE5EFDF5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Domain.Enum", "CancunHotel.Domain.Enum\CancunHotel.Domain.Enum.csproj", "{F5B4D19C-D2FC-49B3-B3A4-902459AE52EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Domain.Model", "CancunHotel.Domain.Model\CancunHotel.Domain.Model.csproj", "{42F19B63-5A57-4435-90C0-A5E942791016}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Domain.Service", "CancunHotel.Domain.Service\CancunHotel.Domain.Service.csproj", "{F81C15A1-3993-4968-90E6-4EFAAD4549B2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Domain.Service.Contract", "CancunHotel.Domain.Service.Contract\CancunHotel.Domain.Service.Contract.csproj", "{70B876B5-2212-40EA-97F0-DEE43D1887BE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Infrastructure.DI", "CancunHotel.Infrastructure.DI\CancunHotel.Infrastructure.DI.csproj", "{93FE5A31-AE96-4BB4-83F4-D3CF64910A71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Infrastructure.Repository", "CancunHotel.Infrastructure.Repository\CancunHotel.Infrastructure.Repository.csproj", "{294C54D6-706F-45B6-962E-9544BE048D8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel.Infrastructure.Repository.Contract", "CancunHotel.Infrastructure.Repository.Contract\CancunHotel.Infrastructure.Repository.Contract.csproj", "{13B9DC92-E9DB-4791-BF7C-E09167F29D5B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation", "Foundation\Foundation.csproj", "{88627718-B48F-49F1-8E2D-BCD4E5514104}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CancunHotel", "CancunHotel\CancunHotel.csproj", "{336F725F-7004-454B-9B1B-060026C87C56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41A20CA5-2D6B-4684-AB3F-D52BBAF9FD27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41A20CA5-2D6B-4684-AB3F-D52BBAF9FD27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41A20CA5-2D6B-4684-AB3F-D52BBAF9FD27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41A20CA5-2D6B-4684-AB3F-D52BBAF9FD27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{136026F0-0D1B-4DBE-BA3B-7BAA274CDBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{136026F0-0D1B-4DBE-BA3B-7BAA274CDBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{136026F0-0D1B-4DBE-BA3B-7BAA274CDBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{136026F0-0D1B-4DBE-BA3B-7BAA274CDBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7665E2-46B5-418B-8C12-C592FC3389B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7665E2-46B5-418B-8C12-C592FC3389B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7665E2-46B5-418B-8C12-C592FC3389B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7665E2-46B5-418B-8C12-C592FC3389B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DCBF0B5-2157-4F5E-BD96-F5EDAE5EFDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DCBF0B5-2157-4F5E-BD96-F5EDAE5EFDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DCBF0B5-2157-4F5E-BD96-F5EDAE5EFDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DCBF0B5-2157-4F5E-BD96-F5EDAE5EFDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5B4D19C-D2FC-49B3-B3A4-902459AE52EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B4D19C-D2FC-49B3-B3A4-902459AE52EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B4D19C-D2FC-49B3-B3A4-902459AE52EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B4D19C-D2FC-49B3-B3A4-902459AE52EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F19B63-5A57-4435-90C0-A5E942791016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F19B63-5A57-4435-90C0-A5E942791016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F19B63-5A57-4435-90C0-A5E942791016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F19B63-5A57-4435-90C0-A5E942791016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F81C15A1-3993-4968-90E6-4EFAAD4549B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81C15A1-3993-4968-90E6-4EFAAD4549B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81C15A1-3993-4968-90E6-4EFAAD4549B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81C15A1-3993-4968-90E6-4EFAAD4549B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70B876B5-2212-40EA-97F0-DEE43D1887BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B876B5-2212-40EA-97F0-DEE43D1887BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70B876B5-2212-40EA-97F0-DEE43D1887BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70B876B5-2212-40EA-97F0-DEE43D1887BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FE5A31-AE96-4BB4-83F4-D3CF64910A71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FE5A31-AE96-4BB4-83F4-D3CF64910A71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FE5A31-AE96-4BB4-83F4-D3CF64910A71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FE5A31-AE96-4BB4-83F4-D3CF64910A71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{294C54D6-706F-45B6-962E-9544BE048D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294C54D6-706F-45B6-962E-9544BE048D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294C54D6-706F-45B6-962E-9544BE048D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294C54D6-706F-45B6-962E-9544BE048D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B9DC92-E9DB-4791-BF7C-E09167F29D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B9DC92-E9DB-4791-BF7C-E09167F29D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B9DC92-E9DB-4791-BF7C-E09167F29D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B9DC92-E9DB-4791-BF7C-E09167F29D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88627718-B48F-49F1-8E2D-BCD4E5514104}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88627718-B48F-49F1-8E2D-BCD4E5514104}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88627718-B48F-49F1-8E2D-BCD4E5514104}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88627718-B48F-49F1-8E2D-BCD4E5514104}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336F725F-7004-454B-9B1B-060026C87C56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336F725F-7004-454B-9B1B-060026C87C56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336F725F-7004-454B-9B1B-060026C87C56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336F725F-7004-454B-9B1B-060026C87C56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5ACE5A43-64F5-4595-B87F-994CC192BD74}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.deps.json
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.csproj.AssemblyReference.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.AssemblyInfoInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.AssemblyInfo.cs
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Enum.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Model.dll
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Model.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\bin\Debug\netcoreapp3.1\CancunHotel.Domain.Enum.pdb
+C:\Users\sebastien.flamant\Documents\Perso\CancunHotel\Back\CancunHotel\CancunHotel.Api.ViewModel\obj\Debug\netcoreapp3.1\CancunHotel.Api.ViewModel.csproj.CopyComplete
