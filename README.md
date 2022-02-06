@@ -37,9 +37,9 @@ To be able to run the project in your machine, you need to consider the followin
 You need to launch the web app api and use postman to test endpoints. Swagger can be used to.
 if you want to access mariadb database you can use HeidiSQL
 *host: *cancunhotel.czfxewceanxd.eu-west-3.rds.amazonaws.com*
-*user: *admin*
-*password: *Toulouse31+*
-*port: *3306*
+* user: *admin*
+* password: *Toulouse31+*
+* port: *3306*
 
 
 ### Postman 
