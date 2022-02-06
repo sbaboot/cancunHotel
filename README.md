@@ -22,14 +22,14 @@ can’t be reserved more than 30 days in advance.
 * [MariaDb](https://mariadb.org/)
 * [Swagger](https://swagger.io/solutions/api-documentation/)
 * [AWS - RDS](https://aws.amazon.com/fr/rds/)
-* [Postman] (https://www.postman.com/downloads/)
-* [HeidiSQL] (https://www.heidisql.com/download.php)
+* [Postman](https://www.postman.com/downloads/)
+* [HeidiSQL](https://www.heidisql.com/download.php)
 
 ### Project information
 APi developed with multiple projects in order to separate responsabilites of each component.
 
-I used mariadb database hosted on Amazon Web Services (AWS) thanks to RDS Services. Acces seems to be allowed to everyone.If you can't access the API, don't hesitate to contact me {new issue] (https://github.com/sbaboot/cancunHotel/issues/new)
-I we want to go deeper, you can find the [diagram class] (https://github.com/sbaboot/cancunHotel/blob/master/Cancun%20diagram%20class.pdf)
+I used mariadb database hosted on Amazon Web Services (AWS) thanks to RDS Services. Acces seems to be allowed to everyone.If you can't access the API, don't hesitate to contact me {new issue](https://github.com/sbaboot/cancunHotel/issues/new)
+I we want to go deeper, you can find the [diagram class](https://github.com/sbaboot/cancunHotel/blob/master/Cancun%20diagram%20class.pdf)
 
 ### Prerequisites
 To be able to run the project in your machine, you need to consider the following and mandatory requisites:
@@ -44,8 +44,11 @@ port: *3306*
 
 ### Postman 
 `GET` **/api/reservation - Get all reservations
+
 `GET` **/api/reservation/1 - Get a detail reservation
+
 `POST` **/api/reservation - Save a reservation (add or update if id != 0):
+
         * Request body:
         ```json
 		{    
@@ -57,7 +60,9 @@ port: *3306*
 			"toDate": "2022-02-07T19:50:40"
 		}
         ```
+		
 `DELETE` **/api/reservation/1 - Delete detail reservation
+
 `GET` **/api/room/availability - Display room information and available dates to book
 
 ### Improvement
