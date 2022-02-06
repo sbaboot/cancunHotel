@@ -29,6 +29,7 @@ can’t be reserved more than 30 days in advance.
 APi developed with multiple projects in order to separate responsabilites of each component.
 I used mariadb database hosted on Amazon Web Services (AWS) thanks to RDS Services. Acces seems to be allowed to everyone.If you can't access the API, don't hesitate to contact me[new issue](https://github.com/sbaboot/cancunHotel/issues/new).
 I we want to go deeper, you can find the [diagram class](https://github.com/sbaboot/cancunHotel/blob/master/Cancun%20diagram%20class.pdf)
+This diagram shows how the api can evolve in the futur in order to have something easily maintenable.
 
 ### Prerequisites
 To be able to run the project in your machine, you need to consider the following and mandatory requisites:
@@ -65,7 +66,7 @@ if you want to access mariadb database you can use HeidiSQL
 `GET` **/api/room/availability - Display room information and available dates to book
 
 ### Swagger
-[Swagger Access when api is running] (https://localhost:5001/api/swagger/index.html)
+[Swagger Access when api is running](https://localhost:5001/api/swagger/index.html)
 
 All endpoints are OK except for checking availability room becuase of a dictionary property in the response.
 ### Improvement

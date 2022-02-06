@@ -43,11 +43,11 @@ if you want to access mariadb database you can use HeidiSQL
 
 
 ### Postman 
-`GET` **/api/reservation - Get all reservations
+`GET` **http://localhost:5000/api/reservation - Get all reservations
 
-`GET` **/api/reservation/1 - Get a detail reservation
+`GET` **http://localhost:5000/api/reservation/1 - Get a detail reservation
 
-`POST` **/api/reservation - Save a reservation (add or update if id != 0):
+`POST` **http://localhost:5000/api/reservation - Save a reservation (add or update if id != 0):
 
         * Request body:
         ```json
@@ -61,12 +61,12 @@ if you want to access mariadb database you can use HeidiSQL
 		}
         ```
 		
-`DELETE` **/api/reservation/1 - Delete detail reservation
+`DELETE` **http://localhost:5000api/reservation/1 - Delete detail reservation
 
-`GET` **/api/room/availability - Display room information and available dates to book
+`GET` **http://localhost:5000/api/room/availability - Display room information and available dates to book
 
 ### Swagger
-[Swagger Access when api is running] (https://localhost:5001/api/swagger/index.html)
+[Swagger Access when api is running](https://localhost:5001/api/swagger/index.html)
 
 All endpoints are OK except for checking availability room becuase of a dictionary property in the response.
 ### Improvement
